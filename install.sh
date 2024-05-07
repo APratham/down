@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dnld_url="https://raw.githubusercontent.com/Arkapravo-Ghosh/down/main/src/main.sh"
+dnld_url="https://raw.githubusercontent.com/APratham/down/main/src/main.sh"
 install_file="down"
 
 # Function to download file using curl or wget
